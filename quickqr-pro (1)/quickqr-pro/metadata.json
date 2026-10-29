@@ -1,0 +1,6 @@
+{
+  "name": "QRCraft – Free Custom QR Code Generator",
+  "description": "Create custom scannable QR codes for websites, YouTube, WhatsApp, Wi-Fi, vCard, and Google Maps with custom colors, patterns, logos, and instant PNG & SVG downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
